@@ -14,6 +14,7 @@
 * EOS 上第一个理财产品: [Dapppub/iBank](https://github.com/Dappub/iBank)
 * EOS 上多个智能合约: [账号注册](https://github.com/Dappub/signupeoseos) 等
 * EOS 上的标准随机数实现: [Dappub/fairdicegame](https://github.com/Dappub/fairdicegame/)
+* EOS 经济模型研究: [tokendapppub](https://github.com/Dappub/tokendapppub)
 * ...
 
 ### 其他链
